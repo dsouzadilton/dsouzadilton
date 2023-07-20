@@ -19,4 +19,3 @@ if __name__ == '__main__':
 ```
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dsouzadilton&theme=blueberry&hide_border=true&background=150504FB&fire=DD6E30&currStreakNum=DDDDDD&sideLabels=65CBDD&dates=6E5ADD&stroke=DDA108&ring=DD2727&sideNums=5ED6DD&currStreakLabel=819BDD)](https://git.io/streak-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsouzadilton&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
