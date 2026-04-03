@@ -8,7 +8,6 @@ class Dilton():
     self.location = "Mumbai, India";
     self.interests = ['Web Development', 'Software Development', 'IoT', 'Machine Learning']
     self.hobbies = ['Coding', 'Cycling', 'Swimming', 'Skating', 'Kickboxing']
-    self.instagram = "@dilton.dsouza";
     self.web = "https://dsouzadilton.github.io";
   
   def __str__(self):
