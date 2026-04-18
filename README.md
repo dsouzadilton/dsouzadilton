@@ -1,4 +1,4 @@
-<img src="[https://www.shutterstock.com/search/coding-funny](https://quotefancy.com/funny-quotes](https://cdn.quotesgram.com/img/82/30/201787369-013c003945ed072ed6e9f6262bbdd561.jpg)"/>
+<img src="https://cdn.quotesgram.com/img/82/30/201787369-013c003945ed072ed6e9f6262bbdd561.jpg"/>
 
 ```python
 class Dilton():
