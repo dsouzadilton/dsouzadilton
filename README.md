@@ -1,4 +1,4 @@
-<img src="https://cdn.quotesgram.com/img/82/30/201787369-013c003945ed072ed6e9f6262bbdd561.jpg"/>
+<img src="https://quotefancy.com/media/wallpaper/3840x2160/20574-Anonymous-Quote-I-need-a-six-month-vacation-twice-a-year.jpg"/>
 
 ```python
 class Dilton():
